@@ -1,7 +1,7 @@
 Dark Visual Studio color scheme for Sublime Text
 ================================================
 
-For those used to Visual Studio and switched to Sublime Text, here is something good for your eyes.
+For those who used Visual Studio and switched to Sublime Text, here is something good for your eyes.
 
 ## Screenshot
 ![screen](https://raw.github.com/nikeee/Visual-Studio-Dark.tmTheme/master/screenshot.png)
