@@ -8,7 +8,7 @@ For those who used Visual Studio and switched to Sublime Text, here is something
 
 
 ### Installation
-- Open a GIT bash in your <code>Packages<code> directory.
+- Open a GIT bash in your <code>Packages</code> directory.
 - Clone this repository
 
   ```Shell
