@@ -339,9 +339,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#ff3333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -352,7 +351,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFD0D0</string>
+				<string>#ff3333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -572,5 +571,9 @@
 	</array>
 	<key>uuid</key>
 	<string>2fd1a8f9-ddfd-11e2-a28f-0800200c9a66</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.visual_studio_dark</string>
 </dict>
 </plist>
