@@ -338,7 +338,6 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
 				<key>foreground</key>
 				<string>#ff3333</string>
 			</dict>
@@ -571,9 +570,5 @@
 	</array>
 	<key>uuid</key>
 	<string>2fd1a8f9-ddfd-11e2-a28f-0800200c9a66</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.visual_studio_dark</string>
 </dict>
 </plist>
