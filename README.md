@@ -8,7 +8,12 @@ For those who used Visual Studio and switched to Sublime Text, here is something
 
 
 ### Installation
-Drop `Visual Studio Dark.tmTheme` file in: `\Data\Packages\Color Scheme - Default`
+- Open a GIT bash in your <code>Packages</code> directory.
+- Clone this repository
+
+  ```Shell
+  git clone https://github.com/nikeee/Visual-Studio-Dark Visual-Studio
+  ```
 
 This is it.
 
