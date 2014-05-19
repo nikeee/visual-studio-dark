@@ -16,7 +16,7 @@ This color theme is also available as a package using the sublime package manage
 - Open a Git bash in your <code>Packages</code> directory.
 - Clone this repository
 
-  ```Shell
+  ```
   git clone https://github.com/nikeee/Visual-Studio-Dark Visual-Studio
   ```
 
