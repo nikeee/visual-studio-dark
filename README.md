@@ -8,6 +8,11 @@ For those who used Visual Studio and switched to Sublime Text, here is something
 
 
 ### Installation
+
+#### Via Package Manager
+This color theme is also available as a package using the sublime package manager. The package is called `Visual Studio Dark` ([online listing](https://sublime.wbond.net/packages/Visual%20Studio%20Dark))
+
+#### Cloning the Repository
 - Open a Git bash in your <code>Packages</code> directory.
 - Clone this repository
 
