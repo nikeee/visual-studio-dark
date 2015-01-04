@@ -66,6 +66,45 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Comparision Operator</string>
+			<key>scope</key>
+			<string>keyword.operator.comparison</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Assignment Operator</string>
+			<key>scope</key>
+			<string>keyword.operator.assignment</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arithmetic Operator</string>
+			<key>scope</key>
+			<string>keyword.operator.arithmetic</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
 			<string>constant.numeric</string>
