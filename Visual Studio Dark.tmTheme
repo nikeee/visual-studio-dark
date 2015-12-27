@@ -211,7 +211,7 @@
 			<key>name</key>
 			<string>Function name</string>
 			<key>scope</key>
-			<string>entity.name.function, keyword.other.name-of-parameter.objc, support.function.any-method</string>
+			<string>entity.name.function, keyword.other.name-of-parameter.objc</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -317,7 +317,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#a559ac</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -394,24 +394,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>PHP Tags</string>
+			<string>Embedded source</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php</string>
+			<string>text source, string.unquoted</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#808080</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PHP Variable</string>
-			<key>scope</key>
-			<string>punctuation.definition.variable.php</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#687687</string>
+				<key>background</key>
+				<string>#282828</string>
 			</dict>
 		</dict>
 		<dict>
@@ -619,13 +608,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Makefile: Targets</string>
+			<string>C#: XML Comment Tags</string>
 			<key>scope</key>
-			<string>entity.name.function.makefile</string>
+			<string>source.cs comment.block.documentation.source.cs meta.tag.xml, source.cs comment.block.documentation.source.cs meta.tag.xml entity.name.tag.localname.xml, source.cs comment.block.documentation.source.cs meta.tag.xml entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4EC9B0</string>
+				<string>#608B4E</string>
 			</dict>
 		</dict>
 	</array>
