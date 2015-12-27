@@ -606,6 +606,17 @@
 				<string>#87CEFA</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>C#: XML Comment Tags</string>
+			<key>scope</key>
+			<string>source.cs comment.block.documentation.source.cs meta.tag.xml, source.cs comment.block.documentation.source.cs meta.tag.xml entity.name.tag.localname.xml, source.cs comment.block.documentation.source.cs meta.tag.xml entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#608B4E</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>2fd1a8f9-ddfd-11e2-a28f-0800200c9a66</string>
