@@ -16,7 +16,7 @@
 				<key>caret</key>
 				<string>#DCDCDC</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 				<key>invisibles</key>
 				<string>#FFFFFF40</string>
 				<key>lineHighlight</key>
@@ -48,7 +48,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -87,7 +87,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -100,7 +100,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +217,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -317,7 +317,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -330,7 +330,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -356,7 +356,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -515,7 +515,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -526,7 +526,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
