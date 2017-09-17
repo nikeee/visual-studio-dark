@@ -617,6 +617,94 @@
 				<string>#608B4E</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter deleted</string>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter inserted</string>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter changed</string>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#967EFB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter ignored</string>
+			<key>scope</key>
+			<string>markup.ignored.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#565656</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter untracked</string>
+			<key>scope</key>
+			<string>markup.untracked.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#565656</string>
+			</dict>
+		</dict>
+		<dict>
+				<key>name</key>
+				<string>Git Modified Line</string>
+				<key>scope</key>
+				<string>git.changes.x</string>
+				<key>settings</key>
+				<dict>
+						<key>background</key>
+						<string>#272852</string>
+				</dict>
+		</dict>
+		<dict>
+				<key>name</key>
+				<string>Git Added Line</string>
+				<key>scope</key>
+				<string>git.changes.+</string>
+				<key>settings</key>
+				<dict>
+						<key>background</key>
+						<string>#275822</string>
+				</dict>
+		</dict>
+		<dict>
+				<key>name</key>
+				<string>Git Remove Line</string>
+				<key>scope</key>
+				<string>git.changes.-</string>
+				<key>settings</key>
+				<dict>
+						<key>background</key>
+						<string>#A72822</string>
+				</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>2fd1a8f9-ddfd-11e2-a28f-0800200c9a66</string>
