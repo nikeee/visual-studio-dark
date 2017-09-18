@@ -673,37 +673,37 @@
 			</dict>
 		</dict>
 		<dict>
-				<key>name</key>
-				<string>Git Modified Line</string>
-				<key>scope</key>
-				<string>git.changes.x</string>
-				<key>settings</key>
-				<dict>
-						<key>background</key>
-						<string>#272852</string>
-				</dict>
+			<key>name</key>
+			<string>Git Modified Line</string>
+			<key>scope</key>
+			<string>git.changes.x</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#272852</string>
+			</dict>
 		</dict>
 		<dict>
-				<key>name</key>
-				<string>Git Added Line</string>
-				<key>scope</key>
-				<string>git.changes.+</string>
-				<key>settings</key>
-				<dict>
-						<key>background</key>
-						<string>#275822</string>
-				</dict>
+			<key>name</key>
+			<string>Git Added Line</string>
+			<key>scope</key>
+			<string>git.changes.+</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#275822</string>
+			</dict>
 		</dict>
 		<dict>
-				<key>name</key>
-				<string>Git Remove Line</string>
-				<key>scope</key>
-				<string>git.changes.-</string>
-				<key>settings</key>
-				<dict>
-						<key>background</key>
-						<string>#A72822</string>
-				</dict>
+			<key>name</key>
+			<string>Git Remove Line</string>
+			<key>scope</key>
+			<string>git.changes.-</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#A72822</string>
+			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
