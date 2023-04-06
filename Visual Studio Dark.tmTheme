@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<!--
+	Yellow: #DCDBAD
+	Blue: #5E9BD0
+	Light Blue: #A3DADB
+	Dark Green: #65A253
+	Green: #68C5B1
+	Light Green: #B9CDAB
+	Pink: #D09F88
+	Purple: #D2A4DB
+	Grey: #808080
+-->
 <dict>
 	<key>name</key>
 	<string>Visual Studio Dark</string>
@@ -35,7 +46,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#608B4E</string>
+				<string>#65A253</string>
 			</dict>
 		</dict>
 		<dict>
@@ -66,9 +77,22 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Comparision Operator</string>
+			<string>Control Keyword</string>
 			<key>scope</key>
-			<string>keyword.operator.comparison</string>
+			<string>keyword.control</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#D2A4DB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Logical Operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -113,7 +137,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B5CEA8</string>
+				<string>#B9CDAB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -152,7 +176,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#569CD6</string>
+				<string>#5E9BD0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -165,7 +189,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D69D85</string>
+				<string>#D09F88</string>
 			</dict>
 		</dict>
 		<dict>
@@ -178,7 +202,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E3BBAB</string>
+				<string>#D09F88</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,7 +215,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9B9B9B</string>
+				<string>#649BCF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -204,7 +228,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9B9B9B</string>
+				<string>#649BCF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +241,20 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DCDCDC</string>
+				<string>#68C5B1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function Call</string>
+			<key>scope</key>
+			<string>variable.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#DCDBAD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -230,7 +267,20 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#4EC9B0</string>
+				<string>#68C5B1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class Declaration</string>
+			<key>scope</key>
+			<string>entity.name.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#68C5B1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -243,7 +293,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#569CD6</string>
+				<string>#5E9BD0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -269,7 +319,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#4EC9B0</string>
+				<string>#68C5B1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -281,6 +331,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#A3DADB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -293,7 +345,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#70727E</string>
+				<string>#65A253</string>
 			</dict>
 		</dict>
 		<dict>
@@ -317,7 +369,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DCDCDC</string>
+				<string>#68C5B1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -330,7 +382,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DCDCDC</string>
+				<string>#68C5B1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -367,7 +419,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#687687</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -413,7 +465,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#68685B</string>
+				<string>#5E9BD0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -450,7 +502,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#808080</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -463,7 +515,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#569CD6</string>
+				<string>#5E9BD0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -476,7 +528,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#92CAF4</string>
+				<string>#A3DADB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -489,7 +541,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C8C8C8</string>
+				<string>#DCDCDC</string>
 			</dict>
 		</dict>
 		<dict>
